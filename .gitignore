@@ -27,3 +27,6 @@
 *.ist
 *.upa
 *.upb
+
+# the hot key files
+*.ahk
