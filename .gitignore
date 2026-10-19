@@ -30,3 +30,6 @@
 
 # the hot key files
 *.ahk
+
+# macos
+*.DS_Store
